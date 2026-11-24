@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ycmmm-hub.github.io/sitemap.xml
+Sitemap: https://ycmmm-hub.github.io/pubrescue/sitemap.xml
+Sitemap: https://ycmmm-hub.github.io/xpsrescue/sitemap.xml
+Sitemap: https://ycmmm-hub.github.io/chmrescue/sitemap.xml
+Sitemap: https://ycmmm-hub.github.io/finiquito/sitemap.xml
+Sitemap: https://ycmmm-hub.github.io/abfindung/sitemap.xml
